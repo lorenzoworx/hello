@@ -1,72 +1,52 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Hello_Microverse
 
-> Description the project.
+> A simple project to show how linters, GitHub workflow and branches work
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML
+- CSS
 
-## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
+- HTML5
+- CSS3
+- VSCode or any source code editor of your choice
+- GitHub
+- Terminal
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Okolo Oshoke**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: @lorenzoworx (https://github.com/lorenzoworx)
+- Twitter: @lorenzoworx(https://twitter.com/lorenzoworx)
+- LinkedIn: Oshoke Okolo(https://www.linkedin.com/in/oshoke-okolo-665208108)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the issues page(https://github.com/ooshoke/Hello_Microverse/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
