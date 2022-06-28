@@ -47,9 +47,6 @@ Feel free to check the issues page(https://github.com/ooshoke/Hello_Microverse/i
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Thanks to my coding partner Losalini for helping me make sense of this
 
 ## 📝 License
 
