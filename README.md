@@ -30,7 +30,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Okolo Oshoke**
 
 - GitHub: @lorenzoworx (https://github.com/lorenzoworx)
 - Twitter: @lorenzoworx(https://twitter.com/lorenzoworx)
